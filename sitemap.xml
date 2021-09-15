@@ -5,5 +5,10 @@
     <link>https://makebot.ml/</link>
     <description></description>
     <item>
+      <title>makebot</title>
+      <link>https://makebot.ml</link>
+      <description></description>
+      <guid>https://makebot.ml</guid>
+    </item>
   </channel>
 </rss>
