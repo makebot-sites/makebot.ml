@@ -17,20 +17,7 @@
 <meta name="theme-color" content="#ffffff">
 <title>makebot</title>
 <script>
-  var filter = "win16|win32|win64|mac";
-      if(navigator.platform){
-        if(0 > filter.indexOf(navigator.platform.toLowerCase())){
-          if(navigator.language=='ko' || navigator.language=='ko-KR') {
-            window.location.href='https://makebot.kro.kr/ko/main'
-          } else {
-            window.location.href='https://makebot.kro.kr/main'
-          }
-        } else {
-          if(navigator.language=='ko' || navigator.language=='ko-KR') {
-            window.location.href='https://makebot.kro.kr/ko/main'
-          } else {
-            window.location.href='https://makebot.kro.kr/main'
-          }
-        }
-      }
+  let page = window.location.href;
+  page = page.substr(23, page.length-1);
+  window.location.href='https://makebot.kro.kr/' + page;
 </script>
