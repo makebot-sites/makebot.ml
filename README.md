@@ -1,1 +1,1 @@
-# makebot.ml
+# makebot.kro.kr
