@@ -2,43 +2,19 @@
 <rss version="2.0">
   <channel>
     <title>makebot</title>
-    <link>https://makebot.kro.kr/</link>
+    <link>https://makebot.ml/</link>
     <description></description>
     <item>
       <title>main</title>
-      <link>https://makebot.kro.kr/main.html</link>
+      <link>https://makebot.ml/main.html</link>
       <description></description>
-      <guid>https://makebot.kro.kr/main.html</guid>
-    </item>
-    <item>
-      <title>project</title>
-      <link>https://makebot.kro.kr/project.html</link>
-      <description></description>
-      <guid>https://makebot.kro.kr/project.html</guid>
+      <guid>https://makebot.ml/main.html</guid>
     </item>
     <item>
       <title>notice</title>
-      <link>https://makebot.kro.kr/notice.html</link>
+      <link>https://makebot.ml/notice.html</link>
       <description></description>
-      <guid>https://makebot.kro.kr/notice.html</guid>
-    </item>
-    <item>
-      <title>inquiry</title>
-      <link>https://makebot.kro.kr/inquiry.html</link>
-      <description></description>
-      <guid>https://makebot.kro.kr/inquiry.html</guid>
-    </item>
-    <item>
-      <title>github</title>
-      <link>https://makebot.kro.kr/github.html</link>
-      <description></description>
-      <guid>https://makebot.kro.kr/github.html</guid>
-    </item>
-    <item>
-      <title>SNS</title>
-      <link>https://makebot.kro.kr/sns.html</link>
-      <description></description>
-      <guid>https://makebot.kro.kr/sns.html</guid>
+      <guid>https://makebot.ml/notice.html</guid>
     </item>
   </channel>
 </rss>
