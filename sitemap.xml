@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>makebot</title>
+    <link>https://makebot.ml/</link>
+    <description></description>
+    <item>
+      <title>main</title>
+      <link>https://makebot.ml/main.html</link>
+      <description></description>
+      <guid>https://makebot.ml/main.html</guid>
+    </item>
+    <item>
+      <title>notice</title>
+      <link>https://makebot.ml/notice.html</link>
+      <description></description>
+      <guid>https://makebot.ml/notice.html</guid>
+    </item>
+  </channel>
+</rss>
