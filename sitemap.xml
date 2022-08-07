@@ -6,15 +6,15 @@
     <description></description>
     <item>
       <title>main</title>
-      <link>https://makebot.ml/main.html</link>
+      <link>https://makebot.ml/main</link>
       <description></description>
-      <guid>https://makebot.ml/main.html</guid>
+      <guid>https://makebot.ml/main</guid>
     </item>
     <item>
       <title>notice</title>
-      <link>https://makebot.ml/notice.html</link>
+      <link>https://makebot.ml/notice</link>
       <description></description>
-      <guid>https://makebot.ml/notice.html</guid>
+      <guid>https://makebot.ml/notice</guid>
     </item>
   </channel>
 </rss>
